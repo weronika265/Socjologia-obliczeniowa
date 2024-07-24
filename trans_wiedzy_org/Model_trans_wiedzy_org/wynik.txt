@@ -1,0 +1,1468 @@
+-- Prawdopodobieñstwo 0.9 --
+Symulacja #1:
+Liczba K = 24, K/2 = 1
+Liczba K = 24, K/2 = 1
+t = 2
+
+Symulacja #2:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #3:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #4:
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #5:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #6:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #7:
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #8:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #9:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #10:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #11:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #12:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #13:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #14:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #15:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #16:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #17:
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #18:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #19:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #20:
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #21:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #22:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #23:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #24:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #25:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #26:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #27:
+Liczba K = 22, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #28:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #29:
+Liczba K = 22, K/2 = 2
+Liczba K = 22, K/2 = 2
+t = 2
+
+Symulacja #30:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #31:
+Liczba K = 23, K/2 = 1
+Liczba K = 24, K/2 = 1
+Liczba K = 24, K/2 = 1
+t = 3
+
+Symulacja #32:
+Liczba K = 24, K/2 = 1
+Liczba K = 24, K/2 = 1
+t = 2
+
+Symulacja #33:
+Liczba K = 22, K/2 = 1
+Liczba K = 23, K/2 = 1
+Liczba K = 23, K/2 = 1
+t = 3
+
+Symulacja #34:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #35:
+Liczba K = 24, K/2 = 1
+Liczba K = 24, K/2 = 1
+t = 2
+
+Symulacja #36:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #37:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #38:
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 3
+
+Symulacja #39:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #40:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #41:
+Liczba K = 23, K/2 = 1
+Liczba K = 24, K/2 = 1
+Liczba K = 24, K/2 = 1
+t = 3
+
+Symulacja #42:
+Liczba K = 22, K/2 = 2
+Liczba K = 23, K/2 = 2
+Liczba K = 23, K/2 = 2
+t = 3
+
+Symulacja #43:
+Liczba K = 23, K/2 = 2
+Liczba K = 23, K/2 = 2
+t = 2
+
+Symulacja #44:
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 2
+
+Symulacja #45:
+Liczba K = 23, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #46:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #47:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #48:
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 2
+
+Symulacja #49:
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #50:
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+
+-- Prawdopodobieñstwo 0.7 --
+Symulacja #1:
+Liczba K = 12, K/2 = 3
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #2:
+Liczba K = 10, K/2 = 2
+Liczba K = 20, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #3:
+Liczba K = 15, K/2 = 4
+Liczba K = 21, K/2 = 2
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #4:
+Liczba K = 11, K/2 = 2
+Liczba K = 19, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 4
+
+Symulacja #5:
+Liczba K = 10, K/2 = 3
+Liczba K = 17, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #6:
+Liczba K = 19, K/2 = 3
+Liczba K = 21, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #7:
+Liczba K = 15, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 22, K/2 = 0
+t = 3
+
+Symulacja #8:
+Liczba K = 17, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 3
+
+Symulacja #9:
+Liczba K = 14, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #10:
+Liczba K = 10, K/2 = 6
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #11:
+Liczba K = 18, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #12:
+Liczba K = 13, K/2 = 1
+Liczba K = 21, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 4
+
+Symulacja #13:
+Liczba K = 6, K/2 = 0
+Liczba K = 18, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #14:
+Liczba K = 4, K/2 = 0
+Liczba K = 12, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #15:
+Liczba K = 13, K/2 = 3
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #16:
+Liczba K = 17, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 3
+
+Symulacja #17:
+Liczba K = 16, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #18:
+Liczba K = 8, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #19:
+Liczba K = 14, K/2 = 1
+Liczba K = 21, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 4
+
+Symulacja #20:
+Liczba K = 16, K/2 = 3
+Liczba K = 20, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #21:
+Liczba K = 12, K/2 = 2
+Liczba K = 20, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #22:
+Liczba K = 14, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #23:
+Liczba K = 12, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #24:
+Liczba K = 17, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #25:
+Liczba K = 10, K/2 = 2
+Liczba K = 17, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #26:
+Liczba K = 15, K/2 = 1
+Liczba K = 21, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 22, K/2 = 0
+t = 4
+
+Symulacja #27:
+Liczba K = 14, K/2 = 2
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #28:
+Liczba K = 17, K/2 = 4
+Liczba K = 21, K/2 = 2
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #29:
+Liczba K = 10, K/2 = 3
+Liczba K = 15, K/2 = 2
+Liczba K = 19, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 5
+
+Symulacja #30:
+Liczba K = 20, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #31:
+Liczba K = 10, K/2 = 2
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #32:
+Liczba K = 15, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #33:
+Liczba K = 11, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #34:
+Liczba K = 16, K/2 = 5
+Liczba K = 19, K/2 = 2
+Liczba K = 22, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #35:
+Liczba K = 16, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #36:
+Liczba K = 10, K/2 = 2
+Liczba K = 22, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #37:
+Liczba K = 10, K/2 = 4
+Liczba K = 16, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #38:
+Liczba K = 15, K/2 = 4
+Liczba K = 21, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #39:
+Liczba K = 15, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #40:
+Liczba K = 17, K/2 = 3
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #41:
+Liczba K = 9, K/2 = 3
+Liczba K = 19, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 4
+
+Symulacja #42:
+Liczba K = 13, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #43:
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 3
+
+Symulacja #44:
+Liczba K = 12, K/2 = 2
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #45:
+Liczba K = 9, K/2 = 3
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #46:
+Liczba K = 14, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #47:
+Liczba K = 11, K/2 = 3
+Liczba K = 19, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #48:
+Liczba K = 13, K/2 = 1
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+Symulacja #49:
+Liczba K = 16, K/2 = 1
+Liczba K = 21, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 22, K/2 = 0
+t = 4
+
+Symulacja #50:
+Liczba K = 8, K/2 = 3
+Liczba K = 17, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 4
+
+
+-- Prawdopodobieñstwo 0.5 --
+Symulacja #1:
+Liczba K = 4, K/2 = 5
+Liczba K = 9, K/2 = 1
+Liczba K = 19, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #2:
+Liczba K = 2, K/2 = 9
+Liczba K = 4, K/2 = 4
+Liczba K = 12, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #3:
+Liczba K = 3, K/2 = 5
+Liczba K = 8, K/2 = 3
+Liczba K = 14, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #4:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #5:
+Liczba K = 2, K/2 = 13
+Liczba K = 4, K/2 = 9
+Liczba K = 9, K/2 = 1
+Liczba K = 18, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #6:
+Liczba K = 0, K/2 = 9
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #7:
+Liczba K = 3, K/2 = 9
+Liczba K = 6, K/2 = 4
+Liczba K = 12, K/2 = 1
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #8:
+Liczba K = 0, K/2 = 6
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #9:
+Liczba K = 3, K/2 = 5
+Liczba K = 8, K/2 = 4
+Liczba K = 17, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #10:
+Liczba K = 9, K/2 = 3
+Liczba K = 17, K/2 = 1
+Liczba K = 21, K/2 = 1
+Liczba K = 21, K/2 = 1
+t = 4
+
+Symulacja #11:
+Liczba K = 0, K/2 = 7
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #12:
+Liczba K = 0, K/2 = 11
+t = 1
+
+Symulacja #13:
+Liczba K = 7, K/2 = 7
+Liczba K = 12, K/2 = 1
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #14:
+Liczba K = 1, K/2 = 10
+Liczba K = 3, K/2 = 6
+Liczba K = 7, K/2 = 0
+Liczba K = 16, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #15:
+Liczba K = 5, K/2 = 10
+Liczba K = 12, K/2 = 4
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #16:
+Liczba K = 3, K/2 = 14
+Liczba K = 6, K/2 = 10
+Liczba K = 13, K/2 = 3
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #17:
+Liczba K = 2, K/2 = 7
+Liczba K = 6, K/2 = 1
+Liczba K = 15, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #18:
+Liczba K = 2, K/2 = 4
+Liczba K = 5, K/2 = 0
+Liczba K = 13, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #19:
+Liczba K = 5, K/2 = 6
+Liczba K = 13, K/2 = 1
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #20:
+Liczba K = 1, K/2 = 10
+Liczba K = 1, K/2 = 3
+Liczba K = 4, K/2 = 0
+Liczba K = 12, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #21:
+Liczba K = 7, K/2 = 6
+Liczba K = 14, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #22:
+Liczba K = 8, K/2 = 3
+Liczba K = 16, K/2 = 2
+Liczba K = 22, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 5
+
+Symulacja #23:
+Liczba K = 0, K/2 = 6
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #24:
+Liczba K = 0, K/2 = 7
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 3
+
+Symulacja #25:
+Liczba K = 1, K/2 = 7
+Liczba K = 2, K/2 = 2
+Liczba K = 7, K/2 = 0
+Liczba K = 16, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 7
+
+Symulacja #26:
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #27:
+Liczba K = 4, K/2 = 7
+Liczba K = 10, K/2 = 4
+Liczba K = 18, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #28:
+Liczba K = 4, K/2 = 7
+Liczba K = 6, K/2 = 2
+Liczba K = 12, K/2 = 0
+Liczba K = 19, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 22, K/2 = 0
+t = 7
+
+Symulacja #29:
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 1
+t = 4
+
+Symulacja #30:
+Liczba K = 4, K/2 = 16
+Liczba K = 7, K/2 = 12
+Liczba K = 12, K/2 = 5
+Liczba K = 19, K/2 = 2
+Liczba K = 22, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 7
+
+Symulacja #31:
+Liczba K = 5, K/2 = 6
+Liczba K = 9, K/2 = 5
+Liczba K = 15, K/2 = 1
+Liczba K = 22, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #32:
+Liczba K = 2, K/2 = 11
+Liczba K = 3, K/2 = 4
+Liczba K = 9, K/2 = 0
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #33:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #34:
+Liczba K = 9, K/2 = 5
+Liczba K = 16, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #35:
+Liczba K = 3, K/2 = 6
+Liczba K = 7, K/2 = 2
+Liczba K = 14, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 6
+
+Symulacja #36:
+Liczba K = 3, K/2 = 5
+Liczba K = 6, K/2 = 1
+Liczba K = 13, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 22, K/2 = 0
+Liczba K = 22, K/2 = 0
+t = 6
+
+Symulacja #37:
+Liczba K = 2, K/2 = 6
+Liczba K = 7, K/2 = 0
+Liczba K = 17, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 24, K/2 = 0
+Liczba K = 24, K/2 = 0
+t = 6
+
+Symulacja #38:
+Liczba K = 2, K/2 = 8
+Liczba K = 5, K/2 = 6
+Liczba K = 9, K/2 = 0
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #39:
+Liczba K = 2, K/2 = 8
+Liczba K = 2, K/2 = 3
+Liczba K = 4, K/2 = 1
+Liczba K = 11, K/2 = 0
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #40:
+Liczba K = 4, K/2 = 8
+Liczba K = 9, K/2 = 1
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #41:
+Liczba K = 5, K/2 = 10
+Liczba K = 10, K/2 = 3
+Liczba K = 19, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 5
+
+Symulacja #42:
+Liczba K = 1, K/2 = 6
+Liczba K = 4, K/2 = 1
+Liczba K = 11, K/2 = 0
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #43:
+Liczba K = 6, K/2 = 12
+Liczba K = 10, K/2 = 9
+Liczba K = 16, K/2 = 4
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #44:
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #45:
+Liczba K = 3, K/2 = 13
+Liczba K = 5, K/2 = 10
+Liczba K = 12, K/2 = 1
+Liczba K = 22, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #46:
+Liczba K = 2, K/2 = 7
+Liczba K = 5, K/2 = 3
+Liczba K = 14, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 23, K/2 = 0
+t = 6
+
+Symulacja #47:
+Liczba K = 1, K/2 = 6
+Liczba K = 3, K/2 = 7
+Liczba K = 8, K/2 = 2
+Liczba K = 15, K/2 = 2
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #48:
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 3
+
+Symulacja #49:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #50:
+Liczba K = 0, K/2 = 7
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+
+-- Prawdopodobieñstwo 0.3 --
+Symulacja #1:
+Liczba K = 1, K/2 = 8
+Liczba K = 1, K/2 = 20
+Liczba K = 1, K/2 = 20
+t = 3
+
+Symulacja #2:
+Liczba K = 0, K/2 = 6
+t = 1
+
+Symulacja #3:
+Liczba K = 0, K/2 = 6
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 11
+t = 3
+
+Symulacja #4:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #5:
+Liczba K = 0, K/2 = 19
+Liczba K = 0, K/2 = 25
+Liczba K = 0, K/2 = 25
+t = 3
+
+Symulacja #6:
+Liczba K = 0, K/2 = 14
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #7:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #8:
+Liczba K = 2, K/2 = 7
+Liczba K = 3, K/2 = 10
+Liczba K = 5, K/2 = 9
+Liczba K = 9, K/2 = 3
+Liczba K = 18, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #9:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #10:
+Liczba K = 2, K/2 = 16
+Liczba K = 2, K/2 = 23
+Liczba K = 2, K/2 = 23
+t = 3
+
+Symulacja #11:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 9
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #12:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 20
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #13:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 25
+Liczba K = 0, K/2 = 25
+t = 3
+
+Symulacja #14:
+Liczba K = 0, K/2 = 16
+Liczba K = 0, K/2 = 16
+t = 2
+
+Symulacja #15:
+Liczba K = 2, K/2 = 12
+Liczba K = 4, K/2 = 12
+Liczba K = 8, K/2 = 3
+Liczba K = 17, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 6
+
+Symulacja #16:
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 24
+Liczba K = 0, K/2 = 25
+Liczba K = 0, K/2 = 25
+t = 4
+
+Symulacja #17:
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 15
+t = 2
+
+Symulacja #18:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 20
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #19:
+Liczba K = 1, K/2 = 12
+Liczba K = 1, K/2 = 14
+Liczba K = 2, K/2 = 4
+Liczba K = 5, K/2 = 0
+Liczba K = 13, K/2 = 0
+Liczba K = 21, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 8
+
+Symulacja #20:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 6
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #21:
+Liczba K = 1, K/2 = 10
+Liczba K = 1, K/2 = 16
+Liczba K = 2, K/2 = 11
+Liczba K = 6, K/2 = 0
+Liczba K = 15, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 8
+
+Symulacja #22:
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 7
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #23:
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #24:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 16
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #25:
+Liczba K = 0, K/2 = 9
+Liczba K = 0, K/2 = 7
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #26:
+Liczba K = 1, K/2 = 8
+Liczba K = 2, K/2 = 8
+Liczba K = 4, K/2 = 4
+Liczba K = 10, K/2 = 1
+Liczba K = 19, K/2 = 1
+Liczba K = 24, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 8
+
+Symulacja #27:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 16
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #28:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #29:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 14
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #30:
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 17
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #31:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #32:
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 4
+
+Symulacja #33:
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #34:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 12
+t = 2
+
+Symulacja #35:
+Liczba K = 0, K/2 = 17
+Liczba K = 0, K/2 = 18
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #36:
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #37:
+Liczba K = 1, K/2 = 8
+Liczba K = 2, K/2 = 9
+Liczba K = 6, K/2 = 3
+Liczba K = 15, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #38:
+Liczba K = 1, K/2 = 20
+Liczba K = 1, K/2 = 24
+Liczba K = 1, K/2 = 24
+t = 3
+
+Symulacja #39:
+Liczba K = 1, K/2 = 13
+Liczba K = 1, K/2 = 14
+Liczba K = 1, K/2 = 6
+Liczba K = 3, K/2 = 0
+Liczba K = 10, K/2 = 0
+Liczba K = 20, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 8
+
+Symulacja #40:
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 19
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 5
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #41:
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #42:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 3
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #43:
+Liczba K = 1, K/2 = 10
+Liczba K = 2, K/2 = 14
+Liczba K = 5, K/2 = 3
+Liczba K = 14, K/2 = 0
+Liczba K = 23, K/2 = 0
+Liczba K = 25, K/2 = 0
+Liczba K = 25, K/2 = 0
+t = 7
+
+Symulacja #44:
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 16
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 1
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #45:
+Liczba K = 0, K/2 = 12
+Liczba K = 0, K/2 = 21
+Liczba K = 0, K/2 = 21
+t = 3
+
+Symulacja #46:
+Liczba K = 0, K/2 = 8
+Liczba K = 0, K/2 = 17
+Liczba K = 0, K/2 = 25
+Liczba K = 0, K/2 = 25
+t = 4
+
+Symulacja #47:
+Liczba K = 0, K/2 = 11
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 5
+
+Symulacja #48:
+Liczba K = 0, K/2 = 15
+Liczba K = 0, K/2 = 24
+Liczba K = 0, K/2 = 25
+Liczba K = 0, K/2 = 25
+t = 4
+
+Symulacja #49:
+Liczba K = 0, K/2 = 17
+Liczba K = 0, K/2 = 19
+Liczba K = 0, K/2 = 10
+Liczba K = 0, K/2 = 2
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 6
+
+Symulacja #50:
+Liczba K = 0, K/2 = 9
+Liczba K = 0, K/2 = 19
+Liczba K = 0, K/2 = 21
+Liczba K = 0, K/2 = 13
+Liczba K = 0, K/2 = 4
+Liczba K = 0, K/2 = 0
+Liczba K = 0, K/2 = 0
+t = 7
+
+

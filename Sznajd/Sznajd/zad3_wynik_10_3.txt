@@ -1,0 +1,9 @@
+Œrednia z 10 symulacji dla p0 = 0.25: 0.0 (0.0%). Niepewnoœæ œredniej: 0.0
+Œrednia z 10 symulacji dla p0 = 0.5: 160.0 (40.0%). Niepewnoœæ œredniej: 61.967733539318665
+Œrednia z 10 symulacji dla p0 = 0.75: 400.0 (100.0%). Niepewnoœæ œredniej: 0.0
+Œrednia z 100 symulacji dla p0 = 0.25: 0.0 (0.0%). Niepewnoœæ œredniej: 0.0
+Œrednia z 100 symulacji dla p0 = 0.5: 208.0 (52.0%). Niepewnoœæ œredniej: 19.983993594874875
+Œrednia z 100 symulacji dla p0 = 0.75: 400.0 (100.0%). Niepewnoœæ œredniej: 0.0
+Œrednia z 1000 symulacji dla p0 = 0.25: 0.0 (0.0%). Niepewnoœæ œredniej: 0.0
+Œrednia z 1000 symulacji dla p0 = 0.5: 212.8 (53.2%). Niepewnoœæ œredniej: 6.311589340253373
+Œrednia z 1000 symulacji dla p0 = 0.75: 400.0 (100.0%). Niepewnoœæ œredniej: 0.0
